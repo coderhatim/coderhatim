@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋, I’m Hatim. I build games and softwares.</h2>
 
+<p align="center">
+  <img src="profile.png" alt="Code & Play — Software & Game Developer" width="100%" />
+</p>
+
 ###
 
 <div align="center">
