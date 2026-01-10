@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://dribbble.com/shots/4171367-Coding-Freak"  />
+<img align="right" height="150" src="Pixel-Coding-Sticker.gif" />
 
 ###
 
