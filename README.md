@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I’m Hatim. I build games and softwares.</h2>
+<h2 align="left">Hi 👋, I’m Hatim. I build games and software.</h2>
 
 <p align="center">
   <img src="profile.png" alt="Code & Play — Software & Game Developer" width="100%" />
@@ -12,8 +12,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="Pixel-Coding-Sticker.gif" />
 
 
 ###
